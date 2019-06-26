@@ -27,7 +27,7 @@ setup(
     install_requires=[
         "attrdict",
         "pyyaml",
-        "marshmallow",
+        'marshmallow==2.19.2',
         "requests",
         "minio",
         "subresource-integrity",
